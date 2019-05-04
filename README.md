@@ -1,4 +1,6 @@
 # telegraf-nvidiasmi
+[![](https://images.microbadger.com/badges/image/mconcas/telegraf-nvidia.svg)](https://microbadger.com/images/mconcas/telegraf-nvidia "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/mconcas/telegraf-nvidia.svg)](https://microbadger.com/images/mconcas/telegraf-nvidia "Get your own version badge on microbadger.com")
+
 Docker container for nvidia gpu monitoring with Telegraf
 
 ## Disclaimer
